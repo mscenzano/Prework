@@ -21,7 +21,7 @@ answ_arr.each do |word|
 
 		end
 
-		caesar_cypher << letraresult
+		caesar_cypher << character_result
 
 	end	
 
